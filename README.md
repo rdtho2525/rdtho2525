@@ -5,6 +5,7 @@
 
 - Front-End Software Developer (React • JavaScript • HTML • CSS)
 - Additional tools used: Cypress, Mocha/Chai, Git, GitHub, Heroku, Travis CI, React Router, React Context API
+- a11y
 - 🔭 I’m currently working on ... graduating from Turing School of Software and Design
 - 🌱 I’m currently learning ... GraphQL/ApolloClient
 - 🤔 I’m looking for help with ... networking/outreach
