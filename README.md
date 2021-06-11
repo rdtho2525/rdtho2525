@@ -11,6 +11,5 @@
 - 💬 Ask me about ... React Context API
 - 📫 How to reach me: ... E-mail: reggie.thompson4@gmail.com or [LinkedIn](https://www.linkedin.com/in/reggie-thompson-136979137/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I love hiking 14ers in the summer ![image](https://user-images.githubusercontent.com/70557704/121754394-c3fc4e80-cad1-11eb-91ad-ea78326f0ddd.png)
-
+- ⚡ Fun fact: ... I love hiking 14ers in the summer :sunrise_over_mountains:
 
