@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning ... GraphQL/ApolloClient
 - 🤔 I’m looking for help with ... networking/outreach
 - 💬 Ask me about ... React Context API
-- 📫 How to reach me: ... E-mail: reggie.thompson4@gmail.com or [LinkedIn](https://www.linkedin.com/in/reggie-thompson-136979137/)
+- 📫 How to reach me: ... e-mail: reggie.thompson4@gmail.com or [LinkedIn](https://www.linkedin.com/in/reggie-thompson-136979137/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love hiking 14ers in the summer :sunrise_over_mountains:
 
