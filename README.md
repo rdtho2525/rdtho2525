@@ -6,8 +6,8 @@
 - Front-End Software Developer (React • JavaScript • HTML • CSS)
 - Additional tools used: Cypress, Mocha/Chai, Git, GitHub, Heroku, Travis CI, React Router, React Context API
 - a11y
-- 🔭 I’m currently working on ... graduating from Turing School of Software and Design
-- 🌱 I’m currently learning ... GraphQL/ApolloClient
+- 🔭 I’m currently working as a ... CRM Associate Consultant for Slalom
+- 🌱 I’m currently learning ... Salesforce
 - 🤔 I’m looking for help with ... networking/outreach
 - 💬 Ask me about ... React Context API
 - 📫 How to reach me: ... e-mail: reggie.thompson4@gmail.com or [LinkedIn](https://www.linkedin.com/in/reggie-thompson-136979137/)
